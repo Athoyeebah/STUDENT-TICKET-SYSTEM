@@ -1,7 +1,7 @@
-# PLANNING DOCUMENT - CAMPUS HELP DESK TICKET MANAGEMENT SYSTEM
+# PLANNING DOCUMENT - Campus help desk ticket management system
 
-##PROBLEM EXPLANATION
-Students have many problems eveforday, for example Wi-Fi not working, forgotten portal password, laptop shutting down, and email not receiving school mails. Before this system, there was no proper way to record and track them. Tickets could get lost, staff did not know which one was urgent, and which one was already resolved.
+## 1. Problem Explanation
+Students have many problems every day, for example Wi-Fi not working, forgotten portal password, laptop shutting down, and email not receiving school mails. Before this system, there was no proper way to record and track them. Tickets could get lost, staff did not know which one was urgent, and which one was already resolved.
 
 This system solves the problem by storing all tickets in one place, showing which ones are Waiting, In Progress, and Resolved, processing them in order, and allowing search and sorting.
 
@@ -19,7 +19,7 @@ START
   Validate new tickets before adding
 END
 
-##3. Flowchart
+## 3. Flowchart
 
 
 ## 4. Variables and Data Types
