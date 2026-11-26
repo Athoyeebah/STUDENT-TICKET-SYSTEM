@@ -10,9 +10,9 @@ START
  - Create Tickets array with 6 tickets
  - Display all tickets
 - Change status of TKT-001 to "In Progress"
--Count tickets by status and show summary
--Add Waiting tickets to Queue
-- Process next ticket from Queue and move it to Stack
+ -Add tickets by status and show summary
+  -Add waiting ticket to the queue
+  -Process next ticket from Queue and move it to Stack
 -Search ticket by ID
 -Sort tickets by Priority, Name, ID
 -Create OOP Tickets and show summary
