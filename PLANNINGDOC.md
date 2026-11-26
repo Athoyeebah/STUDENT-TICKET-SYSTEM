@@ -9,14 +9,14 @@ This system solves the problem by storing all tickets in one place, showing whic
 START
  - Create Tickets array with 6 tickets
  - Display all tickets
-    - Count status of TKT-001 to "In Progress"
- - Count tickets by status and show summary
- - Add Waiting tickets to Queue
- - Process next ticket from Queue and move it to Stack
- - Search ticket by ID
- - Sort tickets by Priority, Name, ID
- - Create OOP Tickets and show summary
-  -Validate new tickets before adding
+- Change status of TKT-001 to "In Progress"
+-Count tickets by status and show summary
+-Add Waiting tickets to Queue
+- Process next ticket from Queue and move it to Stack
+-Search ticket by ID
+-Sort tickets by Priority, Name, ID
+-Create OOP Tickets and show summary
+-Validate new tickets before adding
 END
 
 ## 3. Flowchart
