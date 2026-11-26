@@ -1,4 +1,4 @@
-# CAMPUS HELP DESK TICKET Management SYSTEM #
+# CAMPUS HELP DESK TICKET MANAGEMENT SYSTEM #
 # About the program?
 A system to manage student support tickets for school issues like Wi-Fi, Account, and Technical problems. Staff can add tickets, update status, see the waiting queue, process tickets, search, sort, and view a summary.
 
