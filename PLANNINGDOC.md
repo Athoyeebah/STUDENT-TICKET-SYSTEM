@@ -8,7 +8,7 @@ This system solves the problem by storing all tickets in one place, showing whic
 ## 2. Pseudocode
 START
  - Create Tickets array with 6 tickets
- - Add one new ticket to Tickets Stack
+ - Add one new ticket to Tickets array
 -  Display all tickets
  - Update status of TKT-001 to "In Progress"
 -  Count tickets by status and show summary
