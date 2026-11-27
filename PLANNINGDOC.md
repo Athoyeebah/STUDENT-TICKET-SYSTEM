@@ -8,11 +8,13 @@ This system solves the problem by storing all tickets in one place, showing whic
 ## 2. Pseudocode
 START
  - Create Tickets array with 6 tickets
+ - Add one new ticket to Tickets Stack
 -  Display all tickets
  - Update status of TKT-001 to "In Progress"
 -  Count tickets by status and show summary
 -  Add Waiting tickets to Queue
  - Process next ticket from Queue and move it to Stack
+ - Undo last processed ticket from stack
 -  Search ticket by ID
  - Sort tickets by Priority, Name, ID
  - Create OOP Tickets and show summary
